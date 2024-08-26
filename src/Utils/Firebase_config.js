@@ -13,13 +13,7 @@ import { initializeApp } from "firebase/app";
 // Initialize Firebase
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA-WDje125P3ztzZ4A6YvIkB7KHphf1Z8A",
-  authDomain: "lmsystem-qrcode.firebaseapp.com",
-  projectId: "lmsystem-qrcode",
-  storageBucket: "lmsystem-qrcode.appspot.com",
-  messagingSenderId: "1034892031148",
-  appId: "1:1034892031148:web:d9c6ef85bca04909da1b09",
-  measurementId: "G-4MT9LQPE1Z"
+
 };
 
 // Initialize Firebase
